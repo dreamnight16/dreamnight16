@@ -1,4 +1,4 @@
-# Hi, I'm DreamNight (彭志炜) 👋
+# Hi, I'm DreamNight 👋
 
 [![Blog](https://img.shields.io/badge/Blog-dreamnight.net.cn-6366f1?style=flat-square)](https://dreamnight.net.cn)
 [![Email](https://img.shields.io/badge/Email-erk163%40163.com-0891b2?style=flat-square)](mailto:erk163@163.com)
