@@ -49,15 +49,31 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height=32 />
 </p>
 
+<!-- repo 信息 -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight"><img src="https://img.shields.io/github/followers/sixtdreanight.svg?style=social&label=Follow" alt="followers" /></a>
+  &nbsp;
+  <a href="https://github.com/sixtdreanight/sixtdreanight/stargazers"><img src="https://img.shields.io/github/stars/sixtdreanight/sixtdreanight.svg?logo=github" alt="stars" /></a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sixtdreanight.sixtdreanight" alt="visitors" />
+</p>
+
 <!-- 联系方式 -->
 <p align="center">Contact</p>
-<p align="center">
-  <a href="https://dreamnight.net.cn"><img src="https://img.shields.io/badge/BLOG-FFB7C5?style=for-the-badge&logo=astro&logoColor=white" height=32 /></a>
-  <a href="https://github.com/sixtdreanight"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height=32 /></a>
-  <a href="https://space.bilibili.com/514345038"><img src="https://img.shields.io/badge/BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" height=32 /></a>
-  <a href="https://twitter.com/sixtdreanight"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height=32 /></a>
-  <a href="https://www.npmjs.com/~sixtdreamnight"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height=32 /></a>
-  <a href="https://pypi.org/user/sixtdreamnight"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height=32 /></a>
+<p>
+  <div align="center">
+    <a href="https://dreamnight.net.cn"><img src="https://img.shields.io/badge/BLOG-FFB7C5?style=for-the-badge&logo=astro&logoColor=white" height=32 /></a>
+    <a href="https://github.com/sixtdreanight"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height=32 /></a>
+    <a href="https://space.bilibili.com/514345038"><img src="https://img.shields.io/badge/BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" height=32 /></a>
+    <a href="https://www.youtube.com/@sixtdreamnight"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=32 /></a>
+    <a href="https://x.com/sixtdreanight"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height=32 /></a>
+  </div>
+  <div align="center">
+    <a href="https://www.npmjs.com/~sixtdreamnight"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height=32 /></a>
+    <a href="https://pypi.org/user/sixtdreamnight"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height=32 /></a>
+    <a href="mailto:mengyeshiliu@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=32 /></a>
+    <a><img src="https://img.shields.io/badge/QQ-1047793616-1EBAFC?style=for-the-badge&logo=tencentqq&logoColor=white" height=32 /></a>
+  </div>
 </p>
 
 ---
@@ -123,7 +139,18 @@
   </picture>
 </p>
 
-<!-- 访问计数 -->
+<!-- 3D 贡献图 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/profile-3d-contrib/profile-night-green.svg" width="800" />
+</p>
+
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/github-metrics.svg" width="800" />
+</p>
+
+<!-- 页面浏览量 -->
+<h2 align="center">Profile Views</h2>
 <p align="center">
   <img src="https://count.getloli.com/@sixtdreanight?theme=booru-jaypee" />
 </p>
