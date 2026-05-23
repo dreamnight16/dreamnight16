@@ -34,10 +34,7 @@
   <p>
     <samp>
       <a href="https://github.com/sixtdreanight/Yumema">Yumema</a>
-      &nbsp;—&nbsp; Electron 桌面伴侣
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="https://github.com/sixtdreanight/V-Partner">V-Partner</a>
-      &nbsp;—&nbsp; CLI + QQ 机器人
+      &nbsp;—&nbsp; Electron 桌面 + CLI + QQ 机器人
     </samp>
   </p>
 
@@ -87,7 +84,7 @@
 <br>
 
 <p align="center">
-  <samp>companion-engine → Yumema / V-Partner &nbsp;&nbsp;|&nbsp;&nbsp; chinese-scraper-utils → ComiRadar / weekly-hotspot → myBlog</samp>
+  <samp>companion-engine → Yumema &nbsp;&nbsp;|&nbsp;&nbsp; chinese-scraper-utils → ComiRadar / weekly-hotspot → myBlog</samp>
 </p>
 
 <br>
