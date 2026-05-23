@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=180&section=header&text=%E5%A4%A2%E5%A4%9C%E5%8D%81%E5%85%AD%20%C2%B7%20DreamNight&fontSize=38&fontColor=666&fontAlignY=38&desc=NJUPT%20AI%20%2725&descSize=13&descAlignY=55&descColor=999" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=180&section=header&text=%E5%A4%A2%E5%A4%9C%E5%8D%81%E5%85%AD%20%C2%B7%20DreamNight&fontSize=38&fontColor=666&fontAlignY=38&desc=%E6%9E%81%E8%87%B4%E6%BA%90%E4%BA%8E%E6%A2%A6%E6%83%B3%20%E8%BF%BD%E6%B1%82%E6%BA%90%E4%BA%8E%E7%83%AD%E7%88%B1&descSize=13&descAlignY=55&descColor=999" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=500&size=20&duration=3000&pause=3000&color=FFB7C5&center=true&vCenter=true&width=500&lines=NJUPT+AI+%2725+%C2%B7+%E5%8D%97%E9%82%AE+AI+%E5%9C%A8%E8%AF%BB;%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E5%B0%8F%E9%A1%B9%E7%9B%AE+%C2%B7+%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81+awa" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=500&size=20&duration=3000&pause=3000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Stay+hungry%2C+stay+foolish.;%E6%88%91%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB" alt="typing" />
 </p>
 
 <!-- 语言 -->
@@ -60,7 +60,7 @@
 
 ---
 
-## 🧠 项目 / Projects
+## Projects / 项目
 
 <p align="center">
   <a href="https://github.com/sixtdreanight/companion-engine"><img src="https://img.shields.io/badge/companion--engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=32 /></a>
@@ -104,7 +104,7 @@
 
 ---
 
-## 📊 统计 / Statistics
+## Statistics / 统计
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sixtdreanight&include_all_commits=true&theme=graywhite&hide_border=false&locale=cn&bg_color=fafafa&text_color=666&icon_color=FFB7C5" />
