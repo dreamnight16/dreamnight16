@@ -109,12 +109,7 @@
 ## Statistics / 统计
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sixtdreanight&show_icons=true&theme=transparent&hide_border=true&bg_color=fafafa&title_color=666&text_color=666&icon_color=FFB7C5" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sixtdreanight&theme=default&hide_border=true&background=fafafa&ring=FFB7C5&fire=FFB7C5" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixtdreanight&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=fafafa&title_color=666&text_color=666" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sixtdreanight&theme=default&hide_border=true&background=fafafa&ring=FFB7C5&fire=FFB7C5" />
 </p>
 
 ---
@@ -126,11 +121,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/output/snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/output/snake.svg" width="800" />
   </picture>
-</p>
-
-<!-- 3D 贡献图 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/profile-3d-contrib/profile-night-green.svg" width="800" />
 </p>
 
 <!-- 访问计数 -->
