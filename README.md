@@ -124,8 +124,30 @@
 
 ## Statistics / 统计
 
+<!-- 奖杯 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sixtdreanight&theme=default&hide_border=true&background=fafafa&ring=FFB7C5&fire=FFB7C5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sixtdreanight&theme=flat&column=7&margin-w=5&no-frame=true&no-bg=true" />
+</p>
+
+<!-- 统计卡片 -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sixtdreanight&show_icons=true&theme=transparent&hide_border=true&bg_color=0,FFB7C5,87CEEB,FFF&title_color=666&text_color=666&icon_color=FFB7C5" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sixtdreanight&theme=default&hide_border=true&background=0,FFB7C5,87CEEB,FFF&ring=FFB7C5&fire=FFB7C5" />
+</p>
+
+<!-- 语言统计 -->
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixtdreanight&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0,FFB7C5,87CEEB,FFF&title_color=666&text_color=666" />
+</p>
+
+<!-- 活动图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixtdreanight&theme=github-light&bg_color=fafafa&color=FFB7C5&line=87CEEB&point=FFB7C5&hide_border=true" />
+</p>
+
+<!-- 社交统计 -->
+<p align="center">
+  <img src="https://stats.justsong.cn/api/bilibili/?id=514345038&theme=default" height="120" />
 </p>
 
 ---
@@ -142,11 +164,6 @@
 <!-- 3D 贡献图 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/profile-3d-contrib/profile-night-green.svg" width="800" />
-</p>
-
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/github-metrics.svg" width="800" />
 </p>
 
 <!-- 页面浏览量 -->
