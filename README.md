@@ -64,45 +64,18 @@
 
 ## Projects / 项目
 
-<p align="center">
-  <a href="https://github.com/sixtdreanight/companion-engine"><img src="https://img.shields.io/badge/companion--engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=32 /></a>
-  &nbsp;
-  <samp>AI 伴侣核心引擎</samp>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/Yumema">Yumema</a>
-  &nbsp;—&nbsp; Electron 桌面 + CLI + QQ 机器人
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/chinese-scraper-utils"><img src="https://img.shields.io/badge/chinese--scraper--utils-pypi-87CEEB?style=for-the-badge&logo=pypi&logoColor=white&labelColor=fafafa" height=32 /></a>
-  &nbsp;
-  <samp>中文抓取工具库</samp>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/ComiRadar">ComiRadar</a>
-  &nbsp;—&nbsp; 漫展雷达
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sixtdreanight/weekly-hotspot">weekly-hotspot</a>
-  &nbsp;—&nbsp; 每周热点深度分析
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sixtdreanight/myBlog">myBlog</a>
-  &nbsp;—&nbsp; 个人博客
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/DreamCode">DreamCode</a>
-  &nbsp;—&nbsp; Vibe Coding 入门互动课
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sixtdreanight/Yanmo">Yanmo · 研墨</a>
-  &nbsp;—&nbsp; 学术研究助手
-</p>
+| | |
+|---|---|
+| [![companion-engine](https://img.shields.io/badge/companion--engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa)](https://github.com/sixtdreanight/companion-engine) | AI 伴侣核心引擎 |
+| [Yumema](https://github.com/sixtdreanight/Yumema) | Electron 桌面 + CLI + QQ 机器人 |
+| | |
+| [![chinese-scraper-utils](https://img.shields.io/badge/chinese--scraper--utils-pypi-87CEEB?style=for-the-badge&logo=pypi&logoColor=white&labelColor=fafafa)](https://github.com/sixtdreanight/chinese-scraper-utils) | 中文抓取工具库 |
+| [ComiRadar](https://github.com/sixtdreanight/ComiRadar) | 漫展雷达 |
+| [weekly-hotspot](https://github.com/sixtdreanight/weekly-hotspot) | 每周热点深度分析 |
+| [myBlog](https://github.com/sixtdreanight/myBlog) | 个人博客 |
+| | |
+| [DreamCode](https://github.com/sixtdreanight/DreamCode) | Vibe Coding 入门互动课 |
+| [Yanmo](https://github.com/sixtdreanight/Yanmo) | 研墨 · 学术研究助手 |
 
 ---
 
