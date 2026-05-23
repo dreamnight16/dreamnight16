@@ -1,11 +1,9 @@
-<h1 align="center">梦夜十六 · DreamNight</h1>
-
 <p align="center">
-  <samp>极致源于梦想 &nbsp;·&nbsp; 追求源于热爱</samp>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=32&duration=3000&pause=3000&color=666&center=true&vCenter=true&width=600&lines=%E6%A2%A6%E5%A4%9C%E5%8D%81%E5%85%AD;DreamNight;Stay+hungry%2C+stay+foolish.;%E6%88%91%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB" alt="title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=500&size=20&duration=3000&pause=3000&color=FFB7C5&center=true&vCenter=true&width=500&lines=%E5%A4%A2%E5%A4%9C%E5%8D%81%E5%85%AD+%C2%B7+DreamNight;Stay+hungry%2C+stay+foolish.;%E6%88%91%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB" alt="typing" />
+  <samp>极致源于梦想 &nbsp;·&nbsp; 追求源于热爱</samp>
 </p>
 
 <!-- 语言 -->
