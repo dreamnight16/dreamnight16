@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB7C5&height=240&section=header&text=%E5%A4%A2%E5%A4%9C%E5%8D%81%E5%85%AD%20%C2%B7%20DreamNight&fontSize=48&fontColor=666&fontAlignY=40&desc=%E6%9E%81%E8%87%B4%E6%BA%90%E4%BA%8E%E6%A2%A6%E6%83%B3%20%E8%BF%BD%E6%B1%82%E6%BA%90%E4%BA%8E%E7%83%AD%E7%88%B1&descSize=13&descAlignY=58&descColor=999" />
-</div>
+<h1 align="center">梦夜十六 · DreamNight</h1>
+
+<p align="center">
+  <samp>极致源于梦想 &nbsp;·&nbsp; 追求源于热爱</samp>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=500&size=20&duration=3000&pause=3000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Stay+hungry%2C+stay+foolish.;%E6%88%91%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB" alt="typing" />
