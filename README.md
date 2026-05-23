@@ -130,7 +130,7 @@
 
 <!-- 3D 贡献图 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/main/profile-3d-contrib/profile-night-pink.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/sixtdreanight/sixtdreanight/master/profile-3d-contrib/profile-night-green.svg" width="800" />
 </p>
 
 <!-- 访问计数 -->

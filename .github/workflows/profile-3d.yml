@@ -19,7 +19,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: main
+          target_branch: master
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
