@@ -120,6 +120,20 @@
   &nbsp;—&nbsp; 学术研究助手
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/sixtdreanight/math-modeling-resources">
+    <img src="https://img.shields.io/badge/math--modeling--resources-MIT-4CAF50?style=for-the-badge&logo=latex&logoColor=white&labelColor=fafafa" height=32 />
+  </a>
+  &nbsp;
+  <samp>数学建模竞赛资源库 — 模型 · 算法 · AI 提示词</samp>
+</p>
+
+<p align="center">
+  <samp>MCM/ICM &nbsp;·&nbsp; CUMCM &nbsp;·&nbsp; MathorCup &nbsp;·&nbsp; 统计建模</samp>
+</p>
+
 ---
 
 ## Statistics / 统计
