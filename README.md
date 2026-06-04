@@ -106,8 +106,10 @@
   <a href="https://github.com/sixtdreanight/weekly-hotspot">weekly-hotspot</a>
   &nbsp;—&nbsp; 每周热点深度分析
   &nbsp;·&nbsp;
+  <a href="https://github.com/sixtdreanight/Blog-mizuki">Blog-mizuki</a>
+  &nbsp;—&nbsp; 个人博客（新）
   <a href="https://github.com/sixtdreanight/myBlog">myBlog</a>
-  &nbsp;—&nbsp; 个人博客
+  &nbsp;—&nbsp; 个人博客（旧）
 </p>
 
 <br>
