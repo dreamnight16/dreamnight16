@@ -87,6 +87,12 @@
 </p>
 
 <p align="center">
+
+<p align="center">
+  <a href="https://github.com/sixtdreanight/UIPin"><img src="https://img.shields.io/badge/UIPin-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=fafafa" height=32 /></a>
+  &nbsp;</p><p align="center"><samp> 通用 UI 标注反馈工具 — 截图 · 标注 · MCP → AI 修复 </samp>
+</p>
+
   <a href="https://github.com/sixtdreanight/Yumema">Yumema</a>
   &nbsp;—&nbsp; Electron 桌面 + CLI + QQ 机器人
 </p>
