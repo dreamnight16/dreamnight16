@@ -120,6 +120,9 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/sixtdreanight/Yanmo">Yanmo · 研墨</a>
   &nbsp;—&nbsp; 学术研究助手
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sixtdreanight/osft">OSFT</a>
+  &nbsp;—&nbsp; 正交子空间微调 · GAN 物理约束
 </p>
 
 <br>
