@@ -80,6 +80,15 @@
 
 ## Projects / 项目
 
+<!-- Featured -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight/mingdao">
+    <img src="https://img.shields.io/badge/明道-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>为你探明前路 · AI 职业规划工具</samp>
+</p>
+
 <!-- Published Packages -->
 <p align="center">
   <a href="https://github.com/sixtdreanight/companion-engine">
