@@ -80,14 +80,15 @@
 
 ## Projects / 项目
 
-<!-- 教育平台 -->
 <p align="center">
   <a href="https://github.com/sixtdreanight/mingdao">
     <img src="https://img.shields.io/badge/明道-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>AI 大学生职业规划工具</samp>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/sixtdreanight/lookout">
     <img src="https://img.shields.io/badge/望塔-Next.js-2563EB?style=for-the-badge&logo=next.js&logoColor=white&labelColor=fafafa" height=28 />
   </a>
@@ -95,14 +96,15 @@
   <samp>高中生信息破壁平台</samp>
 </p>
 
-<!-- npm 库 -->
 <p align="center">
-  <a href="https://github.com/sixtdreanight/maven">
-    <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
+  <a href="https://github.com/sixtdreanight/UIPin">
+    <img src="https://img.shields.io/badge/UIPin-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
-  <samp>通用 AI 客户端 + RAG + 数据存储</samp>
-  &nbsp;&nbsp;
+  <samp>UI 标注反馈 · 截图 → 标注 → AI 修复</samp>
+</p>
+
+<p align="center">
   <a href="https://github.com/sixtdreanight/companion-engine">
     <img src="https://img.shields.io/badge/companion–engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
   </a>
@@ -110,7 +112,22 @@
   <samp>AI 伴侣核心引擎</samp>
 </p>
 
-<!-- PyPI 库 -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight/maven">
+    <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>通用 AI 客户端 + RAG + 数据存储</samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sixtdreanight/Yumema">
+    <img src="https://img.shields.io/badge/Yumema-Electron-24292e?style=for-the-badge&logo=electron&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>桌面应用 + CLI + QQ 机器人</samp>
+</p>
+
 <p align="center">
   <a href="https://github.com/sixtdreanight/chinese-scraper-utils">
     <img src="https://img.shields.io/badge/chinese–scraper–utils-pypi-87CEEB?style=for-the-badge&logo=pypi&logoColor=white&labelColor=fafafa" height=28 />
@@ -119,29 +136,15 @@
   <samp>中文网页抓取工具库</samp>
 </p>
 
-<!-- Electron 桌面应用 -->
-<p align="center">
-  <a href="https://github.com/sixtdreanight/UIPin">
-    <img src="https://img.shields.io/badge/UIPin-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=fafafa" height=28 />
-  </a>
-  &nbsp;—&nbsp;
-  <samp>UI 标注反馈 · 截图 → 标注 → AI 修复</samp>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sixtdreanight/Yumema">
-    <img src="https://img.shields.io/badge/Yumema-Electron-24292e?style=for-the-badge&logo=electron&logoColor=white&labelColor=fafafa" height=28 />
-  </a>
-  &nbsp;—&nbsp;
-  <samp>桌面应用 + CLI + QQ 机器人</samp>
-</p>
-
-<!-- Web 应用 -->
 <p align="center">
   <a href="https://github.com/sixtdreanight/ComiRadar">
     <img src="https://img.shields.io/badge/ComiRadar-Astro-24292e?style=for-the-badge&logo=astro&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>漫展雷达</samp>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/sixtdreanight/weekly-hotspot">
     <img src="https://img.shields.io/badge/weekly–hotspot-AI-24292e?style=for-the-badge&logo=openai&logoColor=white&labelColor=fafafa" height=28 />
   </a>
@@ -149,20 +152,23 @@
   <samp>每周热点深度分析</samp>
 </p>
 
-<!-- 学术 & 学习 -->
 <p align="center">
-  <a href="https://github.com/sixtdreanight/math-modeling-resources">
-    <img src="https://img.shields.io/badge/math–modeling–resources-LaTeX-4CAF50?style=for-the-badge&logo=latex&logoColor=white&labelColor=fafafa" height=28 />
+  <a href="https://github.com/sixtdreanight/DreamCode">
+    <img src="https://img.shields.io/badge/DreamCode-mdBook-24292e?style=for-the-badge&logo=mdbook&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
-  <samp>数学建模竞赛资源库</samp>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sixtdreanight/OSFT">
+  <samp>Vibe Coding 入门课</samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sixtdreanight/osft">
     <img src="https://img.shields.io/badge/OSFT-PyTorch-24292e?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>正交子空间微调</samp>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/sixtdreanight/Yanmo">
     <img src="https://img.shields.io/badge/Yanmo·研墨-research-24292e?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=fafafa" height=28 />
   </a>
@@ -170,25 +176,28 @@
   <samp>学术研究助手</samp>
 </p>
 
-<!-- 博客 & 课程 -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight/math-modeling-resources">
+    <img src="https://img.shields.io/badge/math–modeling–resources-LaTeX-4CAF50?style=for-the-badge&logo=latex&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>数学建模竞赛资源库</samp>
+</p>
+
 <p align="center">
   <a href="https://github.com/sixtdreanight/Blog-mizuki">
     <img src="https://img.shields.io/badge/Blog–mizuki-Astro-24292e?style=for-the-badge&logo=astro&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>个人博客（新）</samp>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/sixtdreanight/myBlog">
     <img src="https://img.shields.io/badge/myBlog-Hexo-24292e?style=for-the-badge&logo=hexo&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>个人博客（旧）</samp>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sixtdreanight/DreamCode">
-    <img src="https://img.shields.io/badge/DreamCode-mdBook-24292e?style=for-the-badge&logo=mdbook&logoColor=white&labelColor=fafafa" height=28 />
-  </a>
-  &nbsp;—&nbsp;
-  <samp>Vibe Coding 入门课</samp>
 </p>
 
 ---
