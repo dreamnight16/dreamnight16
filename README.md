@@ -89,7 +89,23 @@
   <samp>为你探明前路 · AI 职业规划工具</samp>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sixtdreanight/lookout">
+    <img src="https://img.shields.io/badge/望塔-Next.js-2563EB?style=for-the-badge&logo=next.js&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>看见同龄人的路 · 高中生信息破壁平台</samp>
+</p>
+
 <!-- Published Packages -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight/maven">
+    <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>通用 AI + 数据 npm 库</samp>
+</p>
+
 <p align="center">
   <a href="https://github.com/sixtdreanight/companion-engine">
     <img src="https://img.shields.io/badge/companion--engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
