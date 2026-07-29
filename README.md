@@ -82,123 +82,85 @@
 
 <p align="center">
   <a href="https://github.com/sixtdreanight/mingdao"><b>明道</b></a>
-  &nbsp;·&nbsp;
-  AI 大学生职业规划工具
-  &nbsp;
+  <samp>AI 大学生职业规划</samp>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white" />
-</p>
-
-<p align="center">
+  &nbsp;
+  <sub>↖</sub>
+  &nbsp;
+  <a href="https://github.com/sixtdreanight/maven"><b>maven-core</b></a>
+  <samp>通用 AI 客户端 + RAG</samp>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  &nbsp;
+  <sub>↗</sub>
+  &nbsp;
   <a href="https://github.com/sixtdreanight/lookout"><b>望塔</b></a>
-  &nbsp;·&nbsp;
-  高中生信息破壁平台
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/UIPin"><b>UIPin</b></a>
-  &nbsp;·&nbsp;
-  UI 标注反馈 · 截图 → 标注 → AI 修复
-  &nbsp;
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <samp>高中生信息破壁平台</samp>
+  <img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sixtdreanight/companion-engine"><b>companion-engine</b></a>
-  &nbsp;·&nbsp;
-  AI 伴侣核心引擎
-  &nbsp;
+  <samp>AI 伴侣核心引擎</samp>
   <img src="https://img.shields.io/badge/npm-FFB7C5?style=flat-square&logo=npm&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/maven"><b>maven-core</b></a>
-  &nbsp;·&nbsp;
-  通用 AI 客户端 + RAG + 数据存储
   &nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
-
-<p align="center">
+  <sub>→</sub>
+  &nbsp;
   <a href="https://github.com/sixtdreanight/Yumema"><b>Yumema</b></a>
-  &nbsp;·&nbsp;
-  桌面应用 + CLI + QQ 机器人
-  &nbsp;
+  <samp>桌面 + CLI + QQ 机器人</samp>
   <img src="https://img.shields.io/badge/Electron-24292e?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sixtdreanight/chinese-scraper-utils"><b>chinese-scraper-utils</b></a>
-  &nbsp;·&nbsp;
-  中文网页抓取工具库
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyPI-87CEEB?style=flat-square&logo=pypi&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="https://github.com/sixtdreanight/ComiRadar"><b>ComiRadar</b></a>
-  &nbsp;·&nbsp;
-  漫展雷达
-  &nbsp;
+  <samp>漫展雷达</samp>
   <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/weekly-hotspot"><b>weekly-hotspot</b></a>
-  &nbsp;·&nbsp;
-  每周热点深度分析
   &nbsp;
+  <sub>↖</sub>
+  &nbsp;
+  <a href="https://github.com/sixtdreanight/chinese-scraper-utils"><b>chinese-scraper-utils</b></a>
+  <samp>中文抓取工具库</samp>
+  <img src="https://img.shields.io/badge/PyPI-87CEEB?style=flat-square&logo=pypi&logoColor=white" />
+  &nbsp;
+  <sub>↗</sub>
+  &nbsp;
+  <a href="https://github.com/sixtdreanight/weekly-hotspot"><b>weekly-hotspot</b></a>
+  <samp>每周热点深度分析</samp>
   <img src="https://img.shields.io/badge/AI-24292e?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/sixtdreanight/DreamCode"><b>DreamCode</b></a>
-  &nbsp;·&nbsp;
-  Vibe Coding 入门课
+  <sub>weekly-hotspot 输出 →</sub>
   &nbsp;
-  <img src="https://img.shields.io/badge/mdBook-24292e?style=flat-square&logo=mdbook&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/osft"><b>OSFT</b></a>
-  &nbsp;·&nbsp;
-  正交子空间微调
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/Yanmo"><b>研墨</b></a>
-  &nbsp;·&nbsp;
-  学术研究助手
-  &nbsp;
-  <img src="https://img.shields.io/badge/research-24292e?style=flat-square&logo=readthedocs&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sixtdreanight/math-modeling-resources"><b>math-modeling-resources</b></a>
-  &nbsp;·&nbsp;
-  数学建模竞赛资源库
-  &nbsp;
-  <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="https://github.com/sixtdreanight/Blog-mizuki"><b>Blog-mizuki</b></a>
-  &nbsp;·&nbsp;
-  个人博客（新）
-  &nbsp;
+  <samp>个人博客</samp>
   <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/sixtdreanight/myBlog"><b>myBlog</b></a>
+  <a href="https://github.com/sixtdreanight/UIPin"><b>UIPin</b></a>
+  <samp>UI 标注反馈</samp>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   &nbsp;·&nbsp;
-  个人博客（旧）
-  &nbsp;
+  <a href="https://github.com/sixtdreanight/DreamCode"><b>DreamCode</b></a>
+  <samp>Vibe Coding 入门课</samp>
+  <img src="https://img.shields.io/badge/mdBook-24292e?style=flat-square&logo=mdbook&logoColor=white" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sixtdreanight/osft"><b>OSFT</b></a>
+  <samp>正交子空间微调</samp>
+  <img src="https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://github.com/sixtdreanight/Yanmo"><b>研墨</b></a>
+  <samp>学术研究助手</samp>
+  <img src="https://img.shields.io/badge/research-24292e?style=flat-square&logo=readthedocs&logoColor=white" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sixtdreanight/math-modeling-resources"><b>math-modeling</b></a>
+  <samp>数模竞赛资源库</samp>
+  <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sixtdreanight/myBlog"><b>myBlog</b></a>
+  <samp>旧博客</samp>
   <img src="https://img.shields.io/badge/Hexo-24292e?style=flat-square&logo=hexo&logoColor=white" />
 </p>
 
