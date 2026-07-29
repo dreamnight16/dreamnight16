@@ -80,7 +80,7 @@
 
 ## Projects / 项目
 
-<!-- 明道 & 望塔 — 共用 maven-core + chinese-scraper-utils -->
+<!-- 教育平台 -->
 <p align="center">
   <a href="https://github.com/sixtdreanight/mingdao">
     <img src="https://img.shields.io/badge/明道-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=fafafa" height=28 />
@@ -94,26 +94,29 @@
   &nbsp;—&nbsp;
   <samp>高中生信息破壁平台</samp>
 </p>
-<p align="center">
-  <sub>↑ 共用</sub>
-  <a href="https://github.com/sixtdreanight/maven">
-    <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=flat-square&logo=npm&logoColor=white" height=20 />
-  </a>
-  <samp>AI 客户端 + RAG + 数据存储</samp>
-  &nbsp;
-  <a href="https://github.com/sixtdreanight/chinese-scraper-utils">
-    <img src="https://img.shields.io/badge/chinese–scraper–utils-pypi-87CEEB?style=flat-square&logo=pypi&logoColor=white" height=20 />
-  </a>
-  <samp>中文抓取工具</samp>
-</p>
 
-<!-- companion-engine & 相关 -->
+<!-- npm 库 -->
 <p align="center">
+  <a href="https://github.com/sixtdreanight/maven">
+    <img src="https://img.shields.io/badge/maven–core-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>通用 AI 客户端 + RAG + 数据存储</samp>
+  &nbsp;&nbsp;
   <a href="https://github.com/sixtdreanight/companion-engine">
     <img src="https://img.shields.io/badge/companion–engine-npm-FFB7C5?style=for-the-badge&logo=npm&logoColor=white&labelColor=fafafa" height=28 />
   </a>
   &nbsp;—&nbsp;
   <samp>AI 伴侣核心引擎</samp>
+</p>
+
+<!-- PyPI 库 -->
+<p align="center">
+  <a href="https://github.com/sixtdreanight/chinese-scraper-utils">
+    <img src="https://img.shields.io/badge/chinese–scraper–utils-pypi-87CEEB?style=for-the-badge&logo=pypi&logoColor=white&labelColor=fafafa" height=28 />
+  </a>
+  &nbsp;—&nbsp;
+  <samp>中文网页抓取工具库</samp>
 </p>
 
 <!-- Electron 桌面应用 -->
