@@ -80,109 +80,158 @@
 
 ## Projects / 项目
 
+### 🧠 AI · 分析
+
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/sixtdreanight/weekly-hotspot"><b>格物</b> <sub>Dianalyze</sub></a><br>
-  <sub>辩证周报 · AI 驱动的唯物辩证法热点分析</sub><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/weekly-hotspot">格物 <sup>Dianalyze</sup></a></h3>
+  <p align="center">辩证周报——唯物辩证法驱动的热点深度分析，五阶段辩证认识运动，证据溯源，情景推演</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+  </p>
 </td>
 <td width="50%">
-  <a href="https://github.com/sixtdreanight/career-compass"><b>歧点</b> <sub>Divergence</sub></a><br>
-  <sub>AI 大学生职业规划 · 看清每条岔路的样子</sub><br>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/career-compass">歧点 <sup>Divergence</sup></a></h3>
+  <p align="center">AI 大学生职业规划——看清每条岔路的样子，教决策不替决策</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/sixtdreanight/edutrack"><b>世界线</b> <sub>Worldline</sub></a><br>
-  <sub>高中生信息破壁 · 看见同龄人的升学赛道</sub><br>
-  <img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/maven–core-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/edutrack">世界线 <sup>Worldline</sup></a></h3>
+  <p align="center">高中生信息破壁——看见同龄人的升学赛道，打破信息差</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/maven–core-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  </p>
 </td>
 <td>
-  <a href="https://github.com/sixtdreanight/ai-companion"><b>梦间</b> <sub>Yumema</sub></a><br>
-  <sub>AI 伴侣 · 桌面应用 + CLI + QQ 机器人</sub><br>
-  <img src="https://img.shields.io/badge/Electron-24292e?style=flat-square&logo=electron&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/research-ink">研墨 <sup>ResearchInk</sup></a></h3>
+  <p align="center">隐私优先学术研究助手——论文追踪 · 公式验证 · 本地运行</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  </p>
+</td>
+</tr>
+</table>
+
+### 🎮 桌面 · 工具
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/ai-companion">梦间 <sup>Yumema</sup></a></h3>
+  <p align="center">AI 伴侣桌面应用——个性 · 记忆 · 关系系统 · QQ/微信接入</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Electron-24292e?style=flat-square&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
+</td>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/bugshot">BugShot</a></h3>
+  <p align="center">截图标注反馈工具——截图 → 标注 → AI 修复 · MCP 协议</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </p>
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/sixtdreanight/research-ink"><b>研墨</b> <sub>ResearchInk</sub></a><br>
-  <sub>隐私优先学术研究助手</sub><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/anime-con-radar">ComiRadar</a></h3>
+  <p align="center">9 大平台漫展雷达——自动发现 ACG 活动 · 每日更新</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
+  </p>
 </td>
 <td>
-  <a href="https://github.com/sixtdreanight/anime-con-radar"><b>ComiRadar</b></a><br>
-  <sub>9 大平台漫展雷达</sub><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/learn-to-code">DreamCode</a></h3>
+  <p align="center">Vibe Coding 入门互动课——12 课 · AI 助手 · 提示词游乐场</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+  </p>
+</td>
+</tr>
+</table>
+
+### 📚 教育 · 资源
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/MCM-Resource">数学建模资源库</a></h3>
+  <p align="center">8 大类模型 × 27 个算法 × 4 个赛事指南 × AI 辅助</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </p>
+</td>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/osft">OSFT</a></h3>
+  <p align="center">正交子空间微调——冻结 99.3% GAN 权重 · 物理约束</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  </p>
+</td>
+</tr>
+</table>
+
+### 🔧 基础设施
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/maven">Maven</a></h3>
+  <p align="center">共享核心库——AI 客户端 · RAG · 数据存储 · 流式协议</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
+</td>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/companion-engine">companion-engine</a></h3>
+  <p align="center">AI 伴侣核心引擎——个性 · 记忆 · 关系 · 安全</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-FFB7C5?style=flat-square&logo=npm&logoColor=white" />
+  </p>
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/sixtdreanight/maven"><b>Maven</b></a><br>
-  <sub>共享核心库 · AI 客户端 + RAG + 数据存储</sub><br>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/chinese-scraper-utils">chinese-scraper-utils</a></h3>
+  <p align="center">中文抓取工具库——日期解析 · UA 池 · DeepSeek 客户端</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyPI-87CEEB?style=flat-square&logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </p>
 </td>
 <td>
-  <a href="https://github.com/sixtdreanight/companion-engine"><b>companion-engine</b></a><br>
-  <sub>AI 伴侣核心引擎</sub><br>
-  <img src="https://img.shields.io/badge/npm-FFB7C5?style=flat-square&logo=npm&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://github.com/sixtdreanight/bugshot"><b>BugShot</b></a><br>
-  <sub>截图标注反馈 · 截图 → 标注 → AI 修复</sub><br>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</td>
-<td>
-  <a href="https://github.com/sixtdreanight/learn-to-code"><b>DreamCode</b></a><br>
-  <sub>Vibe Coding 入门互动课</sub><br>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://github.com/sixtdreanight/MCM-Resource"><b>数学建模资源库</b></a><br>
-  <sub>8 大类模型 × 27 个算法 × 4 个赛事指南</sub><br>
-  <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-</td>
-<td>
-  <a href="https://github.com/sixtdreanight/osft"><b>OSFT</b></a><br>
-  <sub>正交子空间微调 · GAN 物理约束</sub><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://github.com/sixtdreanight/chinese-scraper-utils"><b>chinese-scraper-utils</b></a><br>
-  <sub>中文网页抓取工具库</sub><br>
-  <img src="https://img.shields.io/badge/PyPI-87CEEB?style=flat-square&logo=pypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</td>
-<td>
-  <a href="https://github.com/sixtdreanight/Blog-mizuki"><b>瑞月</b> <sub>Blog-mizuki</sub></a><br>
-  <sub>个人博客 · Astro + Mizuki</sub><br>
-  <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
+  <h3 align="center"><a href="https://github.com/sixtdreanight/Blog-mizuki">瑞月 <sup>Blog-mizuki</sup></a></h3>
+  <p align="center">个人博客——Astro + Mizuki 主题 · 技术随笔 · 周报</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
+  </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <a href="https://github.com/sixtdreanight/myBlog"><b>myBlog</b></a>
-  &nbsp;
-  <sub>旧博客（归档）</sub>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=white" />
+  <sub>
+    <a href="https://github.com/sixtdreanight/myBlog">myBlog</a>（旧博客 · 已归档）
+    &nbsp;·&nbsp;
+    <a href="https://github.com/sixtdreanight/DeepFakeDetection">DeepFakeDetection</a>（研究项目）
+  </sub>
 </td>
 </tr>
 </table>
