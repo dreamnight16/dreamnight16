@@ -72,7 +72,6 @@
     <a href="https://www.npmjs.com/~sixtdreamnight"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height=32 /></a>
     <a href="https://pypi.org/user/sixtdreamnight"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height=32 /></a>
     <a href="mailto:mengyeshiliu@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=32 /></a>
-    <a><img src="https://img.shields.io/badge/QQ-1047793616-1EBAFC?style=for-the-badge&logo=tencentqq&logoColor=white" height=32 /></a>
   </div>
 </p>
 
