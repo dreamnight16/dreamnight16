@@ -185,7 +185,17 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   </p>
 </td>
+</tr><tr>
+<td colspan="2">
+  <h3 align="center"><a href="https://github.com/sixtdreanight/algorithm-templates">算法模板集 <sup>Algorithm Templates</sup></a></h3>
+  <p align="center">ICPC/OI 竞赛板子——10,000+ 行 C++17/20 · 九大专题 · 即拷即用 · 四语言文档</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/MIT-blue?style=flat-square" />
+  </p>
+</td>
 </tr>
+
 </table>
 
 ### 🔧 基础设施
