@@ -121,6 +121,18 @@
   </p>
 </td>
 </tr>
+<tr>
+<td>
+  <h3 align="center"><a href="https://github.com/dreamnight16/aifabric">AIFabric</a></h3>
+  <p align="center">去中心化本地算力网络——把多台机器上的 GPU 合并成一个 OpenAI 兼容端点</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-7B3FE4?style=flat-square" />
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+  </p>
+</td>
+</tr>
 </table>
 
 ### 🎮 桌面 · 工具
