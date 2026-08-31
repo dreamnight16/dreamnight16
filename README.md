@@ -79,19 +79,58 @@
 
 ## Projects / 项目
 
-### 🧠 AI · 分析
+### 🚀 应用 · Apps
 
 <table>
 <tr>
 <td width="50%">
+  <h3 align="center"><a href="https://github.com/dreamnight16/aifabric">AIFabric</a></h3>
+  <p align="center">去中心化本地算力网络——把多台机器上的 GPU 合并成一个 OpenAI 兼容端点</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-7B3FE4?style=flat-square" />
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+  </p>
+</td>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/dreamnight16/ai-companion">梦间 <sup>Yumema</sup></a></h3>
+  <p align="center">AI 伴侣桌面应用——个性 · 记忆 · 关系系统 · QQ/微信接入</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Electron-24292e?style=flat-square&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
+</td>
+</tr>
+<tr>
+<td>
+  <h3 align="center"><a href="https://github.com/dreamnight16/research-ink">研墨 <sup>ResearchInk</sup></a></h3>
+  <p align="center">隐私优先学术研究助手——论文追踪 · 公式验证 · 本地运行</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  </p>
+</td>
+<td>
+  <h3 align="center"><a href="https://github.com/dreamnight16/bugshot">BugShot</a></h3>
+  <p align="center">截图标注反馈工具——截图 → 标注 → AI 修复 · MCP 协议</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </p>
+</td>
+</tr>
+<tr>
+<td>
   <h3 align="center"><a href="https://github.com/dreamnight16/weekly-hotspot">格物 <sup>Dianalyze</sup></a></h3>
-  <p align="center">辩证周报——唯物辩证法驱动的热点深度分析，五阶段辩证认识运动，证据溯源，情景推演</p>
+  <p align="center">辩证周报——唯物辩证法驱动的热点深度分析，五阶段辩证认识运动，证据溯源，情境推演</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
   </p>
 </td>
-<td width="50%">
+<td>
   <h3 align="center"><a href="https://github.com/dreamnight16/career-compass">歧点 <sup>Divergence</sup></a></h3>
   <p align="center">AI 大学生职业规划——看清每条岔路的样子，教决策不替决策</p>
   <p align="center">
@@ -112,52 +151,6 @@
   </p>
 </td>
 <td>
-  <h3 align="center"><a href="https://github.com/dreamnight16/research-ink">研墨 <sup>ResearchInk</sup></a></h3>
-  <p align="center">隐私优先学术研究助手——论文追踪 · 公式验证 · 本地运行</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  </p>
-</td>
-</tr>
-<tr>
-<td>
-  <h3 align="center"><a href="https://github.com/dreamnight16/aifabric">AIFabric</a></h3>
-  <p align="center">去中心化本地算力网络——把多台机器上的 GPU 合并成一个 OpenAI 兼容端点</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-7B3FE4?style=flat-square" />
-    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
-  </p>
-</td>
-</tr>
-</table>
-
-### 🎮 桌面 · 工具
-
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center"><a href="https://github.com/dreamnight16/ai-companion">梦间 <sup>Yumema</sup></a></h3>
-  <p align="center">AI 伴侣桌面应用——个性 · 记忆 · 关系系统 · QQ/微信接入</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Electron-24292e?style=flat-square&logo=electron&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center"><a href="https://github.com/dreamnight16/bugshot">BugShot</a></h3>
-  <p align="center">截图标注反馈工具——截图 → 标注 → AI 修复 · MCP 协议</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  </p>
-</td>
-</tr>
-<tr>
-<td>
   <h3 align="center"><a href="https://github.com/dreamnight16/anime-con-radar">ComiRadar</a></h3>
   <p align="center">9 大平台漫展雷达——自动发现 ACG 活动 · 每日更新</p>
   <p align="center">
@@ -165,6 +158,8 @@
     <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
   </p>
 </td>
+</tr>
+<tr>
 <td>
   <h3 align="center"><a href="https://github.com/dreamnight16/learn-to-code">DreamCode</a></h3>
   <p align="center">Vibe Coding 入门互动课——12 课 · AI 助手 · 提示词游乐场</p>
@@ -173,43 +168,17 @@
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   </p>
 </td>
-</tr>
-</table>
-
-### 📚 教育 · 资源
-
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center"><a href="https://github.com/dreamnight16/MCM-Resource">数学建模资源库</a></h3>
-  <p align="center">8 大类模型 × 27 个算法 × 4 个赛事指南 × AI 辅助</p>
+<td>
+  <h3 align="center"><a href="https://github.com/dreamnight16/Blog-mizuki">瑞月 <sup>Blog-mizuki</sup></a></h3>
+  <p align="center">个人博客——Astro + Mizuki 主题 · 技术随笔 · 周报</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center"><a href="https://github.com/dreamnight16/osft">OSFT</a></h3>
-  <p align="center">正交子空间微调——冻结 99.3% GAN 权重 · 物理约束</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  </p>
-</td>
-</tr><tr>
-<td colspan="2">
-  <h3 align="center"><a href="https://github.com/dreamnight16/algorithm-templates">算法模板集 <sup>Algorithm Templates</sup></a></h3>
-  <p align="center">ICPC/OI 竞赛板子——10,000+ 行 C++17/20 · 九大专题 · 即拷即用 · 四语言文档</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/MIT-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
   </p>
 </td>
 </tr>
-
 </table>
 
-### 🔧 基础设施
+### 📚 库 · Libraries
 
 <table>
 <tr>
@@ -230,6 +199,16 @@
 </td>
 </tr>
 <tr>
+<td colspan="2">
+  <h3 align="center"><a href="https://github.com/dreamnight16/algorithm-templates">算法模板集 <sup>Algorithm Templates</sup></a></h3>
+  <p align="center">ICPC/OI 竞赛板子——10,000+ 行 C++17/20 · 九大专题 · 即拷即用 · 四语言文档</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/MIT-blue?style=flat-square" />
+  </p>
+</td>
+</tr>
+<tr>
 <td>
   <h3 align="center"><a href="https://github.com/dreamnight16/chinese-scraper-utils">chinese-scraper-utils</a></h3>
   <p align="center">中文抓取工具库——日期解析 · UA 池 · DeepSeek 客户端</p>
@@ -239,10 +218,26 @@
   </p>
 </td>
 <td>
-  <h3 align="center"><a href="https://github.com/dreamnight16/Blog-mizuki">瑞月 <sup>Blog-mizuki</sup></a></h3>
-  <p align="center">个人博客——Astro + Mizuki 主题 · 技术随笔 · 周报</p>
+  <h3 align="center"><a href="https://github.com/dreamnight16/MCM-Resource">数学建模资源库</a></h3>
+  <p align="center">8 大类模型 × 27 个算法 × 4 个赛事指南 × AI 辅助</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Astro-24292e?style=flat-square&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/LaTeX-4CAF50?style=flat-square&logo=latex&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </p>
+</td>
+</tr>
+</table>
+
+### 🧪 研究 · Research
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center"><a href="https://github.com/dreamnight16/osft">OSFT</a></h3>
+  <p align="center">正交子空间微调——冻结 99.3% GAN 权重 · 物理约束</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   </p>
 </td>
 </tr>
@@ -250,8 +245,6 @@
 <td colspan="2" align="center">
   <sub>
     <a href="https://github.com/dreamnight16/myBlog">myBlog</a>（旧博客 · 已归档）
-    &nbsp;·&nbsp;
-    <a href="https://github.com/dreamnight16/DeepFakeDetection">DeepFakeDetection</a>（研究项目）
   </sub>
 </td>
 </tr>
