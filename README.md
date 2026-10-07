@@ -47,6 +47,13 @@
 <!-- 工具 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height=32 />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height=32 />
+  <img src="https://img.shields.io/badge/Work_Buddy-2563EB?style=for-the-badge" height=32 />
+  <img src="https://img.shields.io/badge/Trae-00BFA5?style=for-the-badge" height=32 />
+  <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge" height=32 />
+  <img src="https://img.shields.io/badge/DSH-4D6BFE?style=for-the-badge" height=32 />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height=32 />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height=32 />
 </p>
