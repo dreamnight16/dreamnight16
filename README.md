@@ -170,10 +170,11 @@
 </tr>
 <tr>
 <td>
-  <h3 align="center"><a href="https://github.com/dreamnight16/learn-to-code">DreamCode</a></h3>
-  <p align="center">Vibe Coding 入门互动课——12 课 · AI 助手 · 提示词游乐场</p>
+  <h3 align="center"><a href="https://github.com/dreamnight16/learn-to-code">梦夜的 AI 课 <sup>DreamCode</sup></a></h3>
+  <p align="center">给非专业大学生的 AI 入门课——76 节 · 10 条轨道 · 离线提示词练习场 · 每周新词雷达</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   </p>
 </td>
@@ -231,7 +232,7 @@
 <tr>
 <td>
   <h3 align="center"><a href="https://github.com/dreamnight16/chinese-scraper-utils">chinese-scraper-utils</a></h3>
-  <p align="center">中文抓取工具库——日期解析 · UA 池 · DeepSeek 客户端</p>
+  <p align="center">中文抓取工具库——热榜抓取 · Web 搜索 · 日期解析 · UA 池 · DeepSeek 客户端</p>
   <p align="center">
     <img src="https://img.shields.io/badge/PyPI-87CEEB?style=flat-square&logo=pypi&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
