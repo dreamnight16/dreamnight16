@@ -176,6 +176,17 @@
   </p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+  <h3 align="center"><a href="https://github.com/dreamnight16/TouHouNights">东方阵符录 <sup>TouHouNights</sup></a></h3>
+  <p align="center">东方 Project 主题即时部署塔防——五种防御塔 · 追踪弹幕 · 符卡技能 · 五关战役</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <a href="https://github.com/dreamnight16/TouHouNights/releases/download/v1.0.0-submission/TouHouNights-Windows-x64.zip">下载 Windows 版</a>
+  </p>
+</td>
+</tr>
 </table>
 
 ### 📚 库 · Libraries
