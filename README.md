@@ -170,7 +170,7 @@
 </tr>
 <tr>
 <td>
-  <h3 align="center"><a href="https://github.com/dreamnight16/learn-to-code">梦夜的 AI 课 <sup>DreamCode</sup></a></h3>
+  <h3 align="center"><a href="https://github.com/dreamnight16/see-ai">见 AI <sup>SeeAI</sup></a></h3>
   <p align="center">给非专业大学生的 AI 入门课——76 节 · 10 条轨道 · 离线提示词练习场 · 每周新词雷达</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
