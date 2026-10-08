@@ -71,7 +71,7 @@
 <p align="center">Contact</p>
 <p>
   <div align="center">
-    <a href="https://dreamnight.net.cn"><img src="https://img.shields.io/badge/BLOG-FFB7C5?style=for-the-badge&logo=astro&logoColor=white" height=32 /></a>
+    <a href="https://blog.dreamnight.net.cn"><img src="https://img.shields.io/badge/BLOG-FFB7C5?style=for-the-badge&logo=astro&logoColor=white" height=32 /></a>
     <a href="https://github.com/dreamnight16"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height=32 /></a>
     <a href="https://space.bilibili.com/514345038"><img src="https://img.shields.io/badge/BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" height=32 /></a>
     <a href="https://www.youtube.com/@sixtdreamnight"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=32 /></a>
